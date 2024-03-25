@@ -25,7 +25,8 @@ Após o void setup, vemos em loop uma parte para a escrita dos valores detectado
 e por fim, temos uma função para converter o valor cru do fotoresistor em Lumens (medida padrão de luminosidade), usando de medidas tiradas por nós com um sensor de luminosidade em uma sala de 1,5m2, sendo:
 - 4 lumens, uma sala com somente a luz refletida da lua como fonte de luminosidade;
 - 10 lumens, uma sala com uma forte fonte de luz, como um monitor LED ligado em branco com o máximo brilho.
-e com isso, temos o projeto completo e funcional!
+
+E com isso, temos o projeto completo e funcional!
 
 
 
