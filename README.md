@@ -28,5 +28,7 @@ e por fim, temos uma função para converter o valor cru do fotoresistor em Lume
 
 E com isso, temos o projeto completo e funcional!
 
+Vídeo de explicação do projeto funcionando: [https://youtu.be/gOuXbIvXFdE]
+
 
 
