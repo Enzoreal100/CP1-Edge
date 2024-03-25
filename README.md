@@ -4,11 +4,11 @@
 Olá, professor! Seja bem-vindo ao nosso projeto do primeiro Chechpoint de Edge Computing!
 Nosso grupo é composto por 5 alunos:
 
-Enzo Gaião Real
-Gabriel Henrique Padula
-Gustavo Pasquini Lucas
-Rodrigo Hydeik Mendes Nakata
-Vitor Couto Victorino
+- Enzo Gaião Real
+- Gabriel Henrique Padula
+- Gustavo Pasquini Lucas
+- Rodrigo Hydeik Mendes Nakata
+- Vitor Couto Victorino
 
 Nosso projeto é baseado em 3 LEDs que acendem em casos específicos de luminosidade, onde o verde é ligado quando a situação está sobre controle e sem afetar a qualidade dos vinhos, usamos o valor de 2 lumens, representando uma sala escura, com quase nenhuma luz sendo emitida para a mesma. Os LEDs amarelo e vermelho, acendem em caso de alerta ou luminosidade crítica entrando a sala respectivamente, encontrado os valores em lumens nas ints "lim1" e "lim2".
 
